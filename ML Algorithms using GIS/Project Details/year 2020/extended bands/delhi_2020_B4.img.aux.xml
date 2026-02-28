@@ -1,0 +1,17 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AREA_OR_POINT">Point</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">7819</MDI>
+      <MDI key="STATISTICS_MAXIMUM">49810</MDI>
+      <MDI key="STATISTICS_MEAN">11058.763628214</MDI>
+      <MDI key="STATISTICS_STDDEV">1495.4074515408</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">63.68</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

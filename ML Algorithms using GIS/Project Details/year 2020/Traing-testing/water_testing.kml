@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>water_testing.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0001">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ffff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0002">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>water_testing</name>
+		<open>1</open>
+		<Placemark>
+			<name>water_1</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							76.98262754777022,28.52517690614831,0 76.98444484434708,28.52554995792777,0 76.9860827885264,28.52600016136663,0 76.98607702912874,28.52669250315343,0 76.98422803173412,28.526163777572,0 76.98013424649315,28.52582759772292,0 76.97996610267236,28.52509257341411,0 76.98262754777022,28.52517690614831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_2</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.08042785811577,28.69696471279802,0 77.07980079321578,28.69676637386615,0 77.07940603784814,28.69645011552507,0 77.07916577145949,28.69607235254026,0 77.07897509577542,28.69561973660762,0 77.07921387956138,28.69555292463523,0 77.07933454493651,28.69584079460173,0 77.0793701495576,28.69617537421039,0 77.07955644385794,28.69646609319147,0 77.07977024410658,28.69661464280709,0 77.08019138859189,28.69668683278324,0 77.08162975240114,28.69707156386053,0 77.08151749431647,28.69724739024435,0 77.08042785811577,28.69696471279802,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_3</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							76.89151792932181,28.53427418734276,0 76.89269302227261,28.53403492288063,0 76.89375671315624,28.53380479399848,0 76.89474041366444,28.53361087078426,0 76.89569914104969,28.5334221579441,0 76.8967174797374,28.53320643878831,0 76.89676930974909,28.53338277670312,0 76.89447290091137,28.53387972352697,0 76.89352703990258,28.53405584633925,0 76.8927806206075,28.53421408832848,0 76.89170506005047,28.53442692510691,0 76.89146105865014,28.53445954496032,0 76.89151792932181,28.53427418734276,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_4</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.25244484905429,28.44805386536839,0 77.25251614699653,28.44807578356307,0 77.25270033873224,28.44805378397088,0 77.25272435190845,28.44813772545507,0 77.25273593746331,28.44823397660863,0 77.25251290448544,28.44819410553541,0 77.2522288321841,28.44817982347207,0 77.25225995100121,28.44806787564871,0 77.25244484905429,28.44805386536839,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_6</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.01428524957677,28.54768100447334,0 77.01541863784853,28.55030103298184,0 77.01726611648435,28.55213305595004,0 77.01899932950739,28.5533930518171,0 77.02069899892663,28.55449271576607,0 77.02161759465997,28.55545678205191,0 77.02247958626735,28.55665872243603,0 77.02164970586411,28.55621807136927,0 77.01928124781114,28.55405921837689,0 77.01755422393131,28.5530128666266,0 77.01597896223682,28.5520481707119,0 77.01484667616793,28.55055668355091,0 77.01398543759811,28.54830974407134,0 77.01428524957677,28.54768100447334,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>watre_7</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.3891127567567,28.71678827794392,0 77.38967021630535,28.71692374709848,0 77.39016270643097,28.71707612688515,0 77.39085558410555,28.71724664807092,0 77.39167880351802,28.71738046800455,0 77.39282471317992,28.71752669782881,0 77.39435097636682,28.71771536577642,0 77.39436826212548,28.71791900666801,0 77.39377748104762,28.71785459321753,0 77.39233680635476,28.71767318251763,0 77.39067221382841,28.7173794795722,0 77.38846684448522,28.71678326601972,0 77.38853631918175,28.71663998611266,0 77.3891127567567,28.71678827794392,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_8</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.17181712256665,28.4574233964665,0 77.17164855027681,28.457495811539,0 77.17153172663633,28.45724607854251,0 77.17153241491752,28.45716361025532,0 77.17149060838918,28.45705967097717,0 77.17138425189282,28.45691288873678,0 77.17127868169723,28.45681862321825,0 77.17110546570746,28.45652040748317,0 77.17125398716666,28.45644147482216,0 77.17181712256665,28.4574233964665,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_9</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.22186894657983,28.39996583179192,0 77.22191090169906,28.39988716191385,0 77.22191624589134,28.39976400297684,0 77.22197446485498,28.39968084782537,0 77.22206873576758,28.39966668283724,0 77.22216758617832,28.39968123682733,0 77.22221408860332,28.39979676941122,0 77.22218594620409,28.40002848961863,0 77.22186171105842,28.40003468906971,0 77.22186894657983,28.39996583179192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>water_10</name>
+			<styleUrl>#m_ylw-pushpin001</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							77.2573470671194,28.63212879710555,0 77.25857212532807,28.63133771602346,0 77.26291028913508,28.63870292065724,0 77.26230214639062,28.63930126479598,0 77.2573470671194,28.63212879710555,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
