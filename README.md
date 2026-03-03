@@ -1,13 +1,13 @@
-🌍 ML Algorithms using GIS for Spatial Analysis – Delhi Region
+# ML Algorithms using GIS for Spatial Analysis – Delhi Region
 
 
-📄 Abstract
+## Abstract
 
 The integration of Machine Learning (ML) techniques with Geographical Information Systems (GIS) enables advanced spatial analysis and predictive modeling. This project applies multiple supervised and unsupervised learning algorithms to geospatial datasets of the Delhi region to identify spatial patterns, perform classification, and generate predictive insights.
 
 The study evaluates model performance using statistical metrics and compares algorithm effectiveness for spatial decision-making applications such as urban planning and environmental monitoring.
 
-🔑 Keywords
+## Keywords
 
 Machine Learning, GIS, Spatial Analysis, Delhi, Classification, Regression, Clustering, Geospatial Modeling
 
@@ -141,7 +141,7 @@ This project demonstrates the effectiveness of integrating Machine Learning algo
 
 Future work may involve deep learning models and real-time GIS integration.
 
-🛠 Technologies Used
+# Technologies Used
 
 Python
 
@@ -159,7 +159,7 @@ QGIS / ArcGIS
 
 Jupyter Notebook
 
-📂 Project Structure
+# Project Structure
 ML-Algorithms-using-GIS--Delhi/
 │
 ├── data/
@@ -168,21 +168,21 @@ ML-Algorithms-using-GIS--Delhi/
 ├── outputs/
 ├── requirements.txt
 └── README.md
-▶ How to Run
+ How to Run
 git clone https://github.com/kchaitralatha-bit/ML-Algorithms-using-GIS--Delhi.git
 cd ML-Algorithms-using-GIS--Delhi
 pip install -r requirements.txt
 jupyter notebook
-👩‍💻 Author
+# Author
 
 K Chaitra Latha
 GitHub: https://github.com/kchaitralatha-bit
 
-📄 License
+ License
 
 This project is developed for academic and research purposes.
 
-⭐ Portfolio Value
+# Portfolio Value
 
 This project demonstrates:
 
